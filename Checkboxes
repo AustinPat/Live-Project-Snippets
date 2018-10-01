@@ -1,4 +1,4 @@
- I deleted two checkboxes (JPGraduated and JPHired) in the view and then set there values automatically to false.
+
  
  jPStudent.JPGraduated = false;
  jPStudent.JPHired = false;
