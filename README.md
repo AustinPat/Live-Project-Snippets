@@ -1,2 +1,2 @@
 # Live-Project-Snippets
-This is a live project that i worked on using C# ASP.NET MVC
+This is a live project that I worked on using C# ASP.NET MVC
