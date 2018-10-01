@@ -11,5 +11,6 @@ I also cleaned up the page by shortening the width of the input fields, position
 
 ![If Statement](https://github.com/AustinPat/Live-Project-Snippets/blob/master/Screenshot%20(13).png)
 
-Here I added two new properties to the [Analytics ViewModel]()
+Here I added two [new properties](https://github.com/AustinPat/Live-Project-Snippets/blob/master/New%20Properties)
+to the Analytics ViewModel. Then I added the properties to the constructor. Then in the controller I made the properties calculate the most frequently applied to company, and the most applied to job category in the database.
 
