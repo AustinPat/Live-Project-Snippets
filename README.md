@@ -23,3 +23,10 @@ This is a [drop down menu](https://github.com/AustinPat/Live-Project-Snippets/ne
 This is what the dropdown menu looks like
 ![Drop Down](https://github.com/AustinPat/Live-Project-Snippets/blob/master/Screenshot%20(26).png)
 
+## Statements
+
+[Here]https://github.com/AustinPat/Live-Project-Snippets/blob/master/Statements() I calculated how many applications a user has sent, and how many more they need to send until they reach 35.
+
+This is what it looks like in the view.
+
+![Applications]()
