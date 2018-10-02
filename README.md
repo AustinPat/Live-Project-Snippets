@@ -29,4 +29,4 @@ This is what the dropdown menu looks like
 
 This is what it looks like in the view.
 
-![Applications]()
+![Applications](https://github.com/AustinPat/Live-Project-Snippets/blob/master/Screenshot%20(29).png)
