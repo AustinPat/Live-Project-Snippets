@@ -43,3 +43,7 @@ property I made to the JPStudentRundown view model, and then updated the constru
 I also created a variable called LatestContact that checks the JPLatestContacts table and the JPStudents table
 to see if they both have the same ApplicationUserId. Then I added LatestContact to the studentRundown, along with the property 
 I made previously.
+
+Here is how It looks on the page
+
+![Days Since Last Contact](https://github.com/AustinPat/Live-Project-Snippets/blob/master/Screenshot%20(7).png)
