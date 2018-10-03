@@ -37,7 +37,7 @@ This is a [new model](https://github.com/AustinPat/Live-Project-Snippets/blob/ma
 
 ## Calculated Property
 
-[Here]() I added a calculated property called calculateLastContactDate to the JPLatestContactmodel. The property calculates the number of days between the last contact date and the current date.
+[Here](https://github.com/AustinPat/Live-Project-Snippets/blob/master/Calculated%20Property.cs) I added a calculated property called calculateLastContactDate to the JPLatestContactmodel. The property calculates the number of days between the last contact date and the current date.
 I then added the calculateLastContactDate
 property I made to the JPStudentRundown view model, and then updated the constructor.
 I also created a variable called LatestContact that checks the JPLatestContacts table and the JPStudents table
