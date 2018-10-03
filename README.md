@@ -33,4 +33,4 @@ This is what it looks like in the view.
 
 ## New Model
 
-This is a [new model]() I created called JPChecklist, and then I pushed a migration for it.
+This is a [new model](https://github.com/AustinPat/Live-Project-Snippets/blob/master/New%20Model.cs) I created called JPChecklist, and then I pushed a migration for it.
