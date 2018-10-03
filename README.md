@@ -30,3 +30,7 @@ This is what the dropdown menu looks like
 This is what it looks like in the view.
 
 ![Applications](https://github.com/AustinPat/Live-Project-Snippets/blob/master/Screenshot%20(29).png)
+
+## New Model
+
+This is a [new model]() I created called JPChecklist, and then I pushed a migration for it.
