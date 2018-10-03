@@ -34,3 +34,12 @@ This is what it looks like in the view.
 ## New Model
 
 This is a [new model](https://github.com/AustinPat/Live-Project-Snippets/blob/master/New%20Model.cs) I created called JPChecklist, and then I pushed a migration for it.
+
+## Calculated Property
+
+[Here]() I added a calculated property called calculateLastContactDate to the JPLatestContactmodel. The property calculates the number of days between the last contact date and the current date.
+I then added the calculateLastContactDate
+property I made to the JPStudentRundown view model, and then updated the constructor.
+I also created a variable called LatestContact that checks the JPLatestContacts table and the JPStudents table
+to see if they both have the same ApplicationUserId. Then I added LatestContact to the studentRundown, along with the property 
+I made previously.
